@@ -9,7 +9,7 @@ import threading
 from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
-API_TOKEN = '8847534009:AAGv79I8eBcAbZbC11xWXgZzVEMhqFS8x1A'
+API_TOKEN = ' 8847534009:AAEWHzsdgC8b1a4TdAvKeOgReTJPB_ODUsc'
 ADMIN_USERNAME = '@mgzan201' 
 ADMIN_CHAT_ID = "7592705124"  # အထူးအခွင့်အရေးရမည့် Admin Chat ID
 bot = telebot.TeleBot(API_TOKEN)
